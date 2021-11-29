@@ -1,0 +1,3 @@
+/Users/ethanshealey/CLionProjects/C/hangmanVersionB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ethanshealey/CLionProjects/C/hangmanVersionB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethanshealey/CLionProjects/C/hangmanVersionB/cmake-build-debug/CMakeFiles/hangmanVersionB.dir
